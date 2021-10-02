@@ -1,0 +1,7 @@
+DEV/
+__pycache__
+__pycache__/
+*.txt
+*.pdf
+*.pkl
+CS121.code-workspace
