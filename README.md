@@ -1,5 +1,5 @@
 # SearchEngine for CS class
-Project by Yerline Herrera and Brenda Cid. Current UCI students, do not copy our project/code as that is considered plagerism.
+Project by Yerline Herrera and Brenda Cid. Originally created on Mar 13, 2020 on bcid's github account and reuploaded to yerlineUCI's github. Current UCI students, do not copy our project/code as that is considered plagerism.
 
 ## Link to web version: http://yerlineh.pythonanywhere.com/
 (Had to make small alterations to code for the web version. Web python files are flask_app.py and processing.py)
